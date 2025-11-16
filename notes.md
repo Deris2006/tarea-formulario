@@ -1,0 +1,1 @@
+nombre, correo, contraseña, confirmar contraseña, nacimiento, enviar (submit)
